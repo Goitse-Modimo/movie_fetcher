@@ -1,0 +1,11 @@
+{
+  "name": "omdm_api_app",
+  "version": "1.0.0",
+  "description": "Fetches data from OMDB API and documents it in a markdowwn file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Motsumi makhene",
+  "license": "ISC"
+}
